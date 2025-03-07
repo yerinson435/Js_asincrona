@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Yerinson Suarez",
+        "edad": 18,
+        "email": "suarezyerinson@gmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Jefferson Bueno",
+        "edad": 19,
+        "email": "Jeffersonbueno@gmail.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Breyner alexis",
+        "edad": 17,
+        "email": "Breyneracosta@gmail.com"
+    },
+    {
+        "id": 4,
+        "nombre": "Victor tarazona",
+        "edad": 19,
+        "email": "victortt@gmail.com"
+    }
+]
