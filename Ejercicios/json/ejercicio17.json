@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Joaquín Ríos",
+        "edad": 31,
+        "email": "joaquin.rios@gmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Valeria Ortega",
+        "edad": 26,
+        "email": "valeria.ortega@gmail.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Martín Guzmán",
+        "edad": 23,
+        "email": "martin.guzman@gmail.com"
+    },
+    {
+        "id": 4,
+        "nombre": "Camila Herrera",
+        "edad": 27,
+        "email": "camila.herrera@gmail.com"
+    },
+    {
+        "id": 5,
+        "nombre": "Felipe Castro",
+        "edad": 35,
+        "email": "felipe.castro@gmail.com"
+    },
+    {
+        "id": 6,
+        "nombre": "Luciana Flores",
+        "edad": 30,
+        "email": "luciana.flores@gmail.com"
+    },
+    {
+        "id": 7,
+        "nombre": "Emilio Vargas",
+        "edad": 28,
+        "email": "emilio.vargas@gmail.com"
+    },
+    {
+        "id": 8,
+        "nombre": "Isabela Mendoza",
+        "edad": 22,
+        "email": "isabela.mendoza@gmail.com"
+    },
+    {
+        "id": 9,
+        "nombre": "Fernando Salazar",
+        "edad": 29,
+        "email": "fernando.salazar@gmail.com"
+    },
+    {
+        "id": 10,
+        "nombre": "Daniela Paredes",
+        "edad": 33,
+        "email": "daniela.paredes@gmail.com"
+    },
+    {
+        "id": 11,
+        "nombre": "Gonzalo Peña",
+        "edad": 37,
+        "email": "gonzalo.pena@gmail.com"
+    },
+    {
+        "id": 12,
+        "nombre": "Elena Ávila",
+        "edad": 25,
+        "email": "elena.avila@gmail.com"
+    },
+    {
+        "id": 13,
+        "nombre": "Nicolás Rivas",
+        "edad": 34,
+        "email": "nicolas.rivas@gmail.com"
+    },
+    {
+        "id": 14,
+        "nombre": "Victoria Benítez",
+        "edad": 24,
+        "email": "victoria.benitez@gmail.com"
+    },
+    {
+        "id": 15,
+        "nombre": "Rodrigo Espinoza",
+        "edad": 32,
+        "email": "rodrigo.espinoza@gmail.com"
+    }
+]
